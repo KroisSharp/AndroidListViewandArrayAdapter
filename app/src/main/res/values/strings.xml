@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidListViewandArrayAdapter</string>
+    <string-array name="options">
+        <item>Se Elever</item>
+        <item>opt2</item>
+        <item>opt3</item>
+    </string-array>
+    <string name="title_activity_student_list">StudentListActivity</string>
+</resources>
